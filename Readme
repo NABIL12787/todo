@@ -1,0 +1,24 @@
+ncpour exécuter l'application :
+on ouvre le dossier presentation  dans le terminal
+
+
+Fonction Info :
+node app.js
+
+Ajouter une tache:
+
+#node app.js  add 'test'
+
+Fonction de liste:
+
+#node app.js  ls
+
+
+Fonction de suppression : 
+
+#node app.js  del NUMERO
+
+
+Fonction Done : 
+
+#node app.js  done NUMERO
